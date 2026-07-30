@@ -1,11 +1,11 @@
 {
-    "version":  "1.5.3-obs.22-native",
+    "version":  "1.5.4-obs.23-native",
     "mandatory":  false,
-    "downloadUrl":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/fast-color-aim-updates/main/FastColorAim-OBS-1.5.3.zip",
-    "sha256":  "1F01774BF1C83A6AEF3DD7BB7F776752215DC674A6CA09B3EF7EC40B3E080EDE",
+    "downloadUrl":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/fast-color-aim-updates/main/FastColorAim-OBS-1.5.4.zip",
+    "sha256":  "C1F338E21F4BAB5A6C2F1896B6499F40F9C5E25BAE38CEBC0F4DE15D0ED01418",
     "notes":  [
-                  "Nova identidade Fast Color Aim com interface roxa.",
-                  "Hotkey persistida restaurada automaticamente ao abrir o OBS.",
-                  "Canal exclusivo de atualizacoes Fast Color Aim."
+                  "Hotkey global: funciona com o jogo em primeiro plano.",
+                  "Color Aim sem trava de processo: usa qualquer jogo em primeiro plano.",
+                  "OBS configurado para solicitar permissao de administrador ao abrir."
               ]
 }
