@@ -3,9 +3,5 @@
     "mandatory":  false,
     "downloadUrl":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/fast-color-aim-updates/main/FastColorAim-OBS-1.6.0.zip",
     "sha256":  "D03A6968AA661DC026ECB9F349B2BC500D3C7BF313FF0F93E96D83591A2C144A",
-    "notes":  [
-                  "Hotkey global: funciona com o jogo em primeiro plano.",
-                  "Color Aim sem trava de processo: usa qualquer jogo em primeiro plano.",
-                  "OBS configurado para solicitar permissao de administrador ao abrir."
-              ]
+    "notes":  []
 }
