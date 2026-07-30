@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.0-obs.19-native",
+    "version":  "1.5.3-obs.22-native",
     "mandatory":  false,
-    "downloadUrl":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/fast-color-aim-updates/main/FastColorAim-OBS-1.5.0.zip",
-    "sha256":  "4B0BF07F1538C809B1FA2D10F97DDFC7174A31E62E24139DBA74FCAFEABB680F",
+    "downloadUrl":  "https://raw.githubusercontent.com/fxmacrogaming1532-sketch/fast-color-aim-updates/main/FastColorAim-OBS-1.5.3.zip",
+    "sha256":  "1F01774BF1C83A6AEF3DD7BB7F776752215DC674A6CA09B3EF7EC40B3E080EDE",
     "notes":  [
                   "Nova identidade Fast Color Aim com interface roxa.",
                   "Hotkey persistida restaurada automaticamente ao abrir o OBS.",
