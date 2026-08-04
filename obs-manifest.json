@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.3-obs.37-native",
+    "version":  "1.7.5-obs.38-native",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/fast-color-aim-updates/releases/download/obs-v1.7.3/FastColorAim-OBS-1.7.3.zip",
-    "sha256":  "616D348E8DB1CAE669E96226A28AC7FEB8E740B7940962CB206E6DECA4FB7D16",
+    "downloadUrl":  "https://github.com/fxmacrogaming1532-sketch/fast-color-aim-updates/releases/download/obs-v1.7.5/FastColorAim-OBS-1.7.5.zip",
+    "sha256":  "DAA1EE1657B2A8527E1261431D53FCA0AE6B1FEB2F12142FCC0C417B1CD36C53",
     "notes":  [
 
               ]
